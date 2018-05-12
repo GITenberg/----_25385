@@ -1,0 +1,30 @@
+_repo: '----_25385'
+_version: 0.1.0
+alternative_title: Chun qiu fan lu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dong, Zhongshu, active 2nd century B.C.
+    aliases:
+    - Dongzhongshu
+    - Tung, Chung-shu
+    - 董仲舒
+    - Tong, Tchong-chou
+    gutenberg_agent_id: '31298'
+    url: http://www.gutenberg.org/2009/agents/31298
+description: ''
+gutenberg_issued: '2008-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25385'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Confucius. Chun qiu'
+title: 春秋繁露
+url: http://www.gutenberg.org/ebooks/25385
